@@ -24,4 +24,4 @@ contribution:
 1. A PDM technique is proposed to evaluate the degree of task relatedness as the evolution proceeds. 
 2. A MKT mechanism with a two-level learning operator is presented to conduct multiple strategies of knowledge transfer across tasks based on the degree of relatedness. 
 
-
+benchmark is single-objective multitasking test instance.
