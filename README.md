@@ -30,7 +30,7 @@ benchmark is single-objective multitasking test instance.
 
 key idea: RMP parameter adaptation via success history memory
 
-
+single-objective many-task optimization 
 
 
 
