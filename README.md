@@ -2,7 +2,7 @@
 
 ## recent papers in ETO 
 
-[1] Xu, Hao, A. K. Qin, and Siyu Xia. “Evolutionary Multi-Task Optimization with Adaptive Knowledge Transfer.” IEEE Transactions on Evolutionary Computation, 2021, 1–1. https://doi.org/10.1109/TEVC.2021.3107435.
+#[1] Xu, Hao, A. K. Qin, and Siyu Xia. “Evolutionary Multi-Task Optimization with Adaptive Knowledge Transfer.” IEEE Transactions on Evolutionary Computation, 2021, 1–1. https://doi.org/10.1109/TEVC.2021.3107435.
 
 key idea: how to select the most helpful knowledge sources for a target task to make best use of multiple available knowledge sources
 
@@ -12,7 +12,7 @@ key idea: how to select the most helpful knowledge sources for a target task to 
 
 benchmark is single-objective multitasking test instance.
 
-[2] Evolutionary multi-task optimization with hybrid knowledge transfer strategy, IS 
+#[2] Evolutionary multi-task optimization with hybrid knowledge transfer strategy, IS 
 https://linkinghub.elsevier.com/retrieve/pii/S002002552100952X
 
 motivation:
