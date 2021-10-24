@@ -11,8 +11,8 @@ key idea: how to select the most helpful knowledge sources for a target task to 
 
 benchmark is single-objective multitasking test instance.
 
-**** [2] Evolutionary multi-task optimization with hybrid knowledge transfer strategy, IS 
-https://linkinghub.elsevier.com/retrieve/pii/S002002552100952X
+**[2] Evolutionary multi-task optimization with hybrid knowledge transfer strategy, IS 
+https://linkinghub.elsevier.com/retrieve/pii/S002002552100952X** 
 
 motivation:
 evaluate task relatedness based on both the similarity of their
