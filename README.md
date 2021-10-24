@@ -25,3 +25,27 @@ contribution:
 2. A MKT mechanism with a two-level learning operator is presented to conduct multiple strategies of knowledge transfer across tasks based on the degree of relatedness. 
 
 benchmark is single-objective multitasking test instance.
+
+**[3] Parameter adaptation in multifactorial evolutionary algorithm for many-task optimization**
+
+key idea: RMP parameter adaptation via success history memory
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
